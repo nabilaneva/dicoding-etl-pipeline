@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👗 ETL Fashion Studio
 
 ---
@@ -49,4 +48,3 @@ coverage report
 🚀 Semoga bermanfaat dan selamat mencoba!
 =======
 # dicoding-etl-pipeline
->>>>>>> 75e77944e0edd0d380fd58401a0c3bb4e7df1439
